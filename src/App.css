@@ -42,6 +42,7 @@
 	border-width: 3px;
 	border-radius: 10px;
 	margin-left: 2rem;
+	margin-right: 2rem;
 	background: rgba(99, 253, 210, 0.8) /* Green background with 30% opacity */
 }
 
