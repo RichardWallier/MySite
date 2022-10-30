@@ -20,7 +20,7 @@
 
 @media (max-width: 600px) {
 	.Content {
-		margin-top: 5rem;
+		margin-top: 2rem;
 		flex-direction: column-reverse;
 		text-align: center;
 	}
